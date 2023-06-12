@@ -37,3 +37,8 @@ ul li button {
   border: #444 solid 2px;
   margin: 5px;
 }
+.bg-red-50 ul li{
+  backgroung: #f33;
+  font: #f00;
+  font-size: large;
+}
